@@ -1,8 +1,5 @@
-ctc/nginx:latest
-ctc/php:latest
-ctc/mysql:latest
-ctc/xunsearch:latest
-ctc/redis:latest
+php:latest
+xunsearch:latest
 
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
