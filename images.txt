@@ -1,4 +1,4 @@
-php:latest
+php:ctc 
 xunsearch:latest
 
 #支持私库
